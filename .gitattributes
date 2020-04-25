@@ -1,4 +1,4 @@
 *.css linguist-detectable=false
 *.js linguist-detectable=false
 *.java linguist-detectable=false
-*.react linguist-detectable=true
+*.React linguist-detectable=true
